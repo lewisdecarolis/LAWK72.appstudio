@@ -23,8 +23,40 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "customerSelect",
+            "customerSelect.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerDelete",
+            "customerDelete.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerAdd",
+            "customerAdd.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerUpdate",
+            "customerUpdate.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "overview",
+            "overview.json"
           ]
         }
       ],
@@ -47,7 +79,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "customerDelete",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
